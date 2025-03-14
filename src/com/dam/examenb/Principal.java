@@ -6,6 +6,7 @@ public class Principal {
 		System.out.println("Hola a tod@s");
 		System.out.println("Examen de ED Trimestre 2");
 		System.out.println("cambio ramaA");
+		System.out.println("cambio desde master para conflicto");
 	}
 
 }
